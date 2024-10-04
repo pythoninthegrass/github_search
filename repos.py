@@ -4,6 +4,7 @@ import csv
 import re
 import requests
 import requests_cache
+import time
 from datetime import datetime
 from decouple import config
 from time import sleep
